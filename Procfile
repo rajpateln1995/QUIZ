@@ -1,1 +1,1 @@
-web: gunicorn django_school.wsgi 
+web: gunicorn django_school.wsgi
